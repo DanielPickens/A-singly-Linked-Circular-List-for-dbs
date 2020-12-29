@@ -1,6 +1,6 @@
 # A-singly-Linked-Circular-List-for-dbs
-A singly linked circular list that was created for dbs encapsulation of node by filling elements and traversal in forward direction and counting the number of elements in the list is done.
-When i created this, i did so with th purpose of creating a linked list that would act as a collection of nodes that together form a linear ordering. 
+A singly linked circular list that was created for dbs encapsulation of node by filling elements and traversal in forward direction and counting the number of elements in the list till completion.
+When i created this, i did so with the purpose of creating a linked list that would act as a collection of nodes that together form a linear ordering. 
 
 It takes many different forms and implementation. In its simplest form, a singly linked list is a linked list where each node is an object that stores a reference, and/or reference data values to an element and a reference, called "next", to another node. Note that a node is defined in terms of itself, which is called self-referential structure.
 
